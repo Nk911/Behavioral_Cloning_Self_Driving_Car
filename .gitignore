@@ -1,0 +1,5 @@
+run_wo_resize/*.*
+RecordedImg/
+*.pyc
+*.jpg
+run1/
